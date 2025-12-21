@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rogério 👋
 
 - 🔭 Hoje, sou apenas um estudante na área da tecnologia
-- 🌱 Estudando CSS
+- 🌱 Estudando JavaScript
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
